@@ -1,0 +1,1 @@
+Random bits of arduino code gathered in one place.  Usually I don't have enough in each arduino source directory to justify a separate repo so I'm gathering lot of little random bits of arduino test code here.
